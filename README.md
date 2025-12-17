@@ -1,10 +1,10 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
-**AIM:**
+**AIM :**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
 
-**APPARATUS REQUIRED:**
+**APPARATUS REQUIRED :**
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 2.	Voltmeter	(0-30 V) MC	1
@@ -13,32 +13,20 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 5.	Bread board	---	1
 6.	Multimeter	---	1
 
-**THEORY:**
+**THEORY :**
 
-**NORTON’S THEOREM:**
+**NORTON’S THEOREM :**
 
 Norton’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a current source, IN (=Isc) in parallel with a resistor RN (= RTh), where IN (=Isc) is the short-circuit current through the load terminals and RN is the equivalent resistance at the load terminals when the independent sources are turned off.Norton’s Current, IN or Isc:
 It is the short-circuit current through the load terminals. i.e., IN = Isc
 
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+**CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM :**
 
-**To measure IL**
+![WhatsApp Image 2025-12-17 at 21 55 30_6a11fe4d](https://github.com/user-attachments/assets/a91ab229-23ec-42b8-839e-05c682008fa8)
 
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
-
+![WhatsApp Image 2025-12-17 at 21 55 30_55454a69](https://github.com/user-attachments/assets/65564852-db06-49eb-842f-ef39036108fc)
 
 **PROCEDURE:**
 
@@ -70,24 +58,13 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**TABULAR COLUMN :**
 
-Vi (volts)	IL (amps)
+![WhatsApp Image 2025-12-17 at 21 55 30_8a6470f4](https://github.com/user-attachments/assets/846d191b-e067-42bd-9389-ef21c0b40bd6)
 
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
+![WhatsApp Image 2025-12-17 at 21 55 30_15a1531f](https://github.com/user-attachments/assets/162ebd80-f003-4402-b4e8-0687cdd4a996)
 
 
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
 **MODEL CALCULATION:**
 
 Practical value of IL (from tabulation 1) =2.3mA
@@ -96,9 +73,14 @@ Practical value of IL (from tabulation 1) =2.3mA
 
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+**Theoretical calculation of IL ,IN and RTh(RN) for the given circuit :**
 
+![WhatsApp Image 2025-12-17 at 21 55 30_3e67f2da](https://github.com/user-attachments/assets/3dd55b88-3863-46fd-a6a5-66f4147e9d4b)
+
+ 
+**MARKS SPLIT UP :**
+
+![WhatsApp Image 2025-12-17 at 21 55 31_ca223aa4](https://github.com/user-attachments/assets/13563208-3f4b-4954-bdc3-9f6a5ac5e718)
 
 **RESULT:**
 
